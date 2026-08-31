@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Web Application — QA Portfolio Project
+# 🛒 E-Commerce Web Application
 
 ## 📌 Overview
 
