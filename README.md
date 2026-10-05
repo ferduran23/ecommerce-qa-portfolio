@@ -1,45 +1,45 @@
-# 🛒 E-Commerce Web Application
+# 🛒 Aplicación Web de Comercio Electrónico
 
-## 📌 Overview
+## 📌 Descripción general
 
-End-to-end QA project for an e-commerce web application, covering manual testing, UI automation, API testing, defect management, and CI/CD.
+Proyecto de QA de extremo a extremo para una aplicación web de comercio electrónico, que abarca pruebas manuales, automatización de pruebas de UI, pruebas de API, gestión de defectos y CI/CD.
 
-This project demonstrates the complete QA lifecycle, from test planning and test case design to automated regression testing and test reporting.
-
----
-
-## 🎯 Testing Scope
-
-- User Registration & Authentication
-- Product Catalog & Search
-- Product Details
-- Shopping Cart
-- Checkout & Payment
-- Order Management
-
-### Testing Types
-
-- Functional Testing
-- Exploratory Testing
-- Negative Testing
-- Regression Testing
-- UI Automation
-- API Testing
-- Database Validation
+Este proyecto demuestra el ciclo completo de QA, desde la planificación de pruebas y el diseño de casos de prueba hasta las pruebas de regresión automatizadas y la generación de reportes de pruebas.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🎯 Alcance de las pruebas
 
-### Languages & Frameworks
+- Registro y autenticación de usuarios
+- Catálogo y búsqueda de productos
+- Detalles de productos
+- Carrito de compras
+- Checkout y pagos
+- Gestión de pedidos
+
+### Tipos de pruebas
+
+- Pruebas funcionales
+- Pruebas exploratorias
+- Pruebas negativas
+- Pruebas de regresión
+- Automatización de pruebas de UI
+- Pruebas de API
+- Validación de base de datos
+
+---
+
+## 🛠️ Herramientas y tecnologías
+
+### Lenguajes y frameworks
 
 `Python` · `Pytest` · `Selenium`
 
-### Testing Tools
+### Herramientas de pruebas
 
 `Postman` · `SQL`
 
-### DevOps & Version Control
+### DevOps y control de versiones
 
 `Git` · `GitHub`
 
