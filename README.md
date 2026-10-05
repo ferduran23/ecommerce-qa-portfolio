@@ -42,9 +42,3 @@ The project demonstrates the complete QA lifecycle, from test planning and test 
 **DevOps & Version Control**
 
 `Git` · `GitHub` 
-
-
-     ↓
-API Testing
-     ↓
-Test Reporting
