@@ -4,7 +4,7 @@
 
 End-to-end QA project for an e-commerce web application, covering manual testing, UI automation, API testing, defect management, and CI/CD.
 
-The project demonstrates the complete QA lifecycle, from test planning and test case design to automated regression testing and test reporting.
+This project demonstrates the complete QA lifecycle, from test planning and test case design to automated regression testing and test reporting.
 
 ---
 
@@ -31,14 +31,15 @@ The project demonstrates the complete QA lifecycle, from test planning and test 
 
 ## 🛠️ Tools & Technologies
 
-**Languages & Frameworks**
+### Languages & Frameworks
 
 `Python` · `Pytest` · `Selenium`
 
-**Testing Tools**
+### Testing Tools
 
 `Postman` · `SQL`
 
-**DevOps & Version Control**
+### DevOps & Version Control
 
-`Git` · `GitHub` 
+`Git` · `GitHub`
+
