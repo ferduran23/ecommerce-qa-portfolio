@@ -37,28 +37,13 @@ The project demonstrates the complete QA lifecycle, from test planning and test 
 
 **Testing Tools**
 
-`Postman` · `Jira` · `SQL`
+`Postman` · `SQL`
 
 **DevOps & Version Control**
 
-`Git` · `GitHub` · `GitHub Actions`
+`Git` · `GitHub` 
 
----
 
-## 📋 QA Workflow
-
-```text
-Test Planning
-     ↓
-Test Case Design
-     ↓
-Manual Testing
-     ↓
-Defect Reporting
-     ↓
-Regression Testing
-     ↓
-UI Automation
      ↓
 API Testing
      ↓
